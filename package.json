@@ -1,10 +1,10 @@
 {
-  "name": "simple-calculator",
-  "version": "1.0.0",
+  "name": "madihazeeshan-calculator-777",
+  "version": "3.3.3",
   "description": "",
   "main": "index.js",
   "type": "module",
-  "bin": "index.js",
+  "bin": "main.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
